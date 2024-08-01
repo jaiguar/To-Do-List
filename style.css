@@ -75,3 +75,9 @@ body {
 .task .snooze-btn:hover {
     background-color: #3e8e41;
 }
+@media (max-width:466px){
+    #task-form{
+        width: 50%;
+    }
+    
+}
